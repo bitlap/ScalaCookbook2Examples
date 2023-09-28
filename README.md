@@ -1,5 +1,10 @@
 # 《Scala cookbook》代码清单
 
+![https://item.jd.com/14161936.html](logo.jpeg)
+
+## 京东 https://item.jd.com/14161936.html
+## 当当 https://product.dangdang.com/29630059.html
+
 本代码库包含的是《Scala CookBook2》一书的中文版《Scala 编程实战2》的代码清单。对原书的代码清单感兴趣的同学，可以直接点击本仓库的上游代码库进行查阅，本仓库提供的是本书中文版译者维护的版本，相对于上游的代码库有以下的不同：
 
 - 组织上以多模块，基于章节的形式进行。导入整个工程后并构建好后，大部分子模块可以在IDEA中执行。
@@ -16,8 +21,3 @@
 ## 其他
 
 QQ群：892402908
-
-
-## 京东 https://item.jd.com/14161936.html
-
-![https://item.jd.com/14161936.html](logo.jpeg)
